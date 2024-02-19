@@ -116,8 +116,8 @@ combination of gene, species and GC. An exerpt of a call to this script and this
      Ddx3x_1 TT      CAS     10      0.0230409437570563      MUS     9       0.0207368493813507      
      ...
 
-Full set of samples (raw data files) and final output results are available as processed data at the
-GEO record GSE236247 (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE236247).
+Full set of input samples (raw data) and final output results (processed data) are available at the
+following GEO record GSE236247 (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE236247).
 
 ## 3. How to Cite
 
